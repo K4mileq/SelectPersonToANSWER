@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:SelectPersonToAnswer.ViewModels"
+             x:Class="SelectPersonToAnswer.Views.EditClassPage"
+             Title="Edytuj klasę">
+
+    <ScrollView Padding="20">
+        <VerticalStackLayout Spacing="10">
+           
+            <Label Text="Nazwa klasy:" FontSize="Medium" />
+            <Entry x:Name="classNameEntry" Placeholder="Np. 3A" />
+
+            
+            <Label Text="Nowy uczeń:" />
+            <HorizontalStackLayout>
+                <Entry x:Name="newStudentEntry" Placeholder="Imię i nazwisko ucznia" WidthRequest="200"/>
+                <Button Text="Dodaj" Clicked="OnAddClicked" />
+            </HorizontalStackLayout>
+
+            
+            <Label Text="Lista uczniów:" />
+            <CollectionView ItemsSource="{Binding SelectedClass.Students}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout Padding="5" Spacing="10">
+                            <Label Text="{Binding Name}" VerticalOptions="Center" />
+                            <Button Text="Usuń" BackgroundColor="LightCoral" TextColor="White" 
+                                    Clicked="OnDeleteClicked" BindingContext="{Binding .}" />
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            
+            <Button Text="Zapisz zmiany" Clicked="OnSaveClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\editclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\editclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\editclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\addclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\addclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\views\\addclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\views\\addclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|c:\\users\\grzes\\source\\repos\\selectpersontoanswer\\selectpersontoanswer\\models\\classgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1259BFDC-B4FB-477B-B0CE-B0734E844F3F}|SelectPersonToAnswer\\SelectPersonToAnswer.csproj|solutionrelative:selectpersontoanswer\\models\\classgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddClassPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\AddClassPage.xaml.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\AddClassPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\AddClassPage.xaml.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\AddClassPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:42:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditClassPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\EditClassPage.xaml",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\EditClassPage.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\EditClassPage.xaml",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\EditClassPage.xaml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T13:15:21.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditClassPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\EditClassPage.xaml.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\EditClassPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\EditClassPage.xaml.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\EditClassPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:13:28.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\MainPage.xaml",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T13:15:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:16:29.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddClassPage.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\AddClassPage.xaml",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Views\\AddClassPage.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Views\\AddClassPage.xaml",
+              "RelativeToolTip": "SelectPersonToAnswer\\Views\\AddClassPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T14:42:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Services\\StudentService.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:59:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Models\\Student.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Models\\Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:03:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:02:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassGroup.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Models\\ClassGroup.cs",
+              "RelativeDocumentMoniker": "SelectPersonToAnswer\\Models\\ClassGroup.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SelectPersonToAnswer\\SelectPersonToAnswer\\Models\\ClassGroup.cs",
+              "RelativeToolTip": "SelectPersonToAnswer\\Models\\ClassGroup.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:03:16.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

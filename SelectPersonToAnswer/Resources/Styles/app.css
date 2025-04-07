@@ -1,0 +1,85 @@
+﻿/* app.css */
+
+/* Styl dla Label w EditClassPage */
+/*.title-label {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+}*/
+
+/* Styl dla Entry w EditClassPage */
+/*.entry-style {
+    margin: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border-color: #ccc;
+    background-color: #f9f9f9;
+}*/
+
+/* Styl dla Button w EditClassPage */
+/*.add-button {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}*/
+
+/* Styl dla Button w EditClassPage */
+/*.save-button {
+    background-color: #007aff;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}*/
+
+/* Styl dla ListView w EditClassPage */
+/*.students-listview {
+    margin-top: 15px;
+    background-color: #f0f0f0;
+}*/
+
+/* Styl dla Label w MainPage */
+/*.main-page-label {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+}*/
+
+/* Styl dla Picker w MainPage */
+/*.class-picker {
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    border-color: #ccc;
+}*/
+
+/* Styl dla Button w MainPage */
+/*.draw-button {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}*/
+
+/* Styl dla Label w MainPage */
+/*.selected-student-label {
+    font-size: 20px;
+    text-align: center;
+    color: #555;
+    margin-top: 10px;
+}*/
+
+/* Styl dla Button w MainPage */
+/*.edit-class-button {
+    background-color: #007aff;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}*/
