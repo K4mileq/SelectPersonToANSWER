@@ -43,9 +43,9 @@ namespace SelectPersonToAnswer.Views
 
         private async void OnSaveClicked(object sender, EventArgs e)
         {
-            viewModel.SelectedClass!.Name = classNameEntry.Text?.Trim() ?? string.Empty; // Zmieniliœmy 'ClassName' na 'Name'
-            viewModel.SaveCommand.Execute(null);  // Zapisz zmiany
-            await Navigation.PopAsync();  // Powróæ do poprzedniej strony
+            viewModel.SelectedClass!.Name = classNameEntry.Text?.Trim() ?? string.Empty;
+            viewModel.SaveCommand.Execute(null);
+            await Navigation.PopAsync();
         }
 
     }
