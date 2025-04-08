@@ -28,7 +28,7 @@ namespace SelectPersonToAnswer.Views
                 }
                 else
                 {
-                    DisplayAlert("B³¹d", "Uczeñ o takim imieniu ju¿ istnieje.", "OK");
+                    DisplayAlert("BÂ³Â¹d", "Taki uczeÅ„ juÂ¿ istnieje.", "OK");
                 }
             }
         }
@@ -43,9 +43,9 @@ namespace SelectPersonToAnswer.Views
 
         private async void OnSaveClicked(object sender, EventArgs e)
         {
-            viewModel.SelectedClass!.Name = classNameEntry.Text?.Trim() ?? string.Empty; // Zmieniliœmy 'ClassName' na 'Name'
+            viewModel.SelectedClass!.Name = classNameEntry.Text?.Trim() ?? string.Empty; // ZmieniliÅ“my 'ClassName' na 'Name'
             viewModel.SaveCommand.Execute(null);  // Zapisz zmiany
-            await Navigation.PopAsync();  // Powróæ do poprzedniej strony
+            await Navigation.PopAsync();  // PowrÃ³Ã¦ do poprzedniej strony
         }
 
     }
