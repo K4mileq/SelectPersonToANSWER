@@ -59,7 +59,7 @@ namespace SelectPersonToAnswer.ViewModels
 
         public bool IsClassNameUnique(string className)
         {
-            return !Classes.Any(c => c.Name.Equals(className, StringComparison.OrdinalIgnoreCase));  // Zmieniliśmy 'ClassName' na 'Name'
+            return !Classes.Any(c => c.Name.Equals(className, StringComparison.OrdinalIgnoreCase));
         }
 
     }
