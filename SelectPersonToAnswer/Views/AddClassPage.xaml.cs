@@ -29,7 +29,7 @@ namespace SelectPersonToAnswer.Views
                 }
                 else
                 {
-                    DisplayAlert("B³¹d", "Uczeñ o takim imieniu ju¿ istnieje.", "OK");
+                    DisplayAlert("BÂ³Â¹d", "Taki uczeÅ„ juÂ¿ istnieje.", "OK");
                 }
             }
         }
@@ -62,13 +62,13 @@ namespace SelectPersonToAnswer.Views
                 }
                 else
                 {
-                    errorLabel.Text = "Ta klasa ju¿ istnieje!";
+                    errorLabel.Text = "Ta klasa juÂ¿ istnieje!";
                     errorLabel.IsVisible = true;
                 }
             }
             else
             {
-                errorLabel.Text = "WprowadŸ nazwê klasy.";
+                errorLabel.Text = "WprowadÅ¸ nazwÃª klasy.";
                 errorLabel.IsVisible = true;
             }
         }
